@@ -5,4 +5,4 @@
 + QQ：1321500713
 + Wecha：chenxueqiang_520
 + TEL：+8618674152970
-+ Email: carlchen.xq@foxmail.com
++ Email: <carlchen.xq@foxmail.com>
