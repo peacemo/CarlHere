@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 9f33431b47edcd4eefba
-  clientSecret: 451e1ba31f9b4d8a55fdb888606b242e82940217
+  clientID: f57f7553c85c6c8e7a8b
+  clientSecret: 41ab84b6e4e5232fff414fabe7bb40a78e33eaa9
   repo: CarlHere
   owner: peacemo
 
