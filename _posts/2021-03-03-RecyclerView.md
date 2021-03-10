@@ -10,10 +10,6 @@ author: shikamaru
 
 用通讯录演示RecyclerView
 
-[TOC]
-
-
-
 ## 创建RecyclerView所需的布局文件
 
 1. 在布局文件中创建RecyclerView并在Java文件中定义声明
