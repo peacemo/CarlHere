@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: "Shikamuru's blog"
+name: "Shikamuru's Blog"
 # Short bio or description (displayed in the header)
 description: "关于一切..."
 
@@ -63,10 +63,10 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: lemonchann.github.io
-  owner: lemonchann
+  clientID: 9f33431b47edcd4eefba
+  clientSecret: 451e1ba31f9b4d8a55fdb888606b242e82940217
+  repo: CarlHere
+  owner: peacemo
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
