@@ -62,11 +62,11 @@ footer-text: Copyright (c) 2021 SHIKAMARU
 disqus: # fromendworld
 
 # Gitalk
-gitalk:
-  clientID: f57f7553c85c6c8e7a8b
-  clientSecret: 41ab84b6e4e5232fff414fabe7bb40a78e33eaa9
-  repo: CarlHere
-  owner: peacemo
+# gitalk:
+#   clientID: f57f7553c85c6c8e7a8b
+#   clientSecret: 41ab84b6e4e5232fff414fabe7bb40a78e33eaa9
+#   repo: CarlHere
+#   owner: peacemo
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
