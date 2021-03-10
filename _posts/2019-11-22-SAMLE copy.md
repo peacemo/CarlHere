@@ -8,3 +8,5 @@ toc: true
 author: shikamaru
 ---
 SAMPLESAMPSAMPLESAMPSAMPLE
+
+![](../images/2019-11-22-SAMLE copy/IMG_0052.png)
