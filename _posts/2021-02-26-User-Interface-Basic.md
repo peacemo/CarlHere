@@ -5,7 +5,7 @@ date:   2021-02-26
 tags: [Android]
 comments: false
 toc: true
-author: shikamarushiy
+author: shikamaru
 ---
 
 ## Basic Views
