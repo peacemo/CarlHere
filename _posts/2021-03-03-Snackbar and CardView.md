@@ -1,3 +1,12 @@
+---
+layout: post
+title: "SnackBar and CardView学习"
+date:   2021-03-03
+tags: [Android]
+comments: false
+toc: true
+author: shikamaru
+---
 # Snackbar and CardView
 
 ## Snackbar
