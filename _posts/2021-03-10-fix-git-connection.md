@@ -15,7 +15,7 @@ author: shikamarushiy
 
 ```bash
 $ git config --global https.https://github.com.proxy socks5://127.0.0.1:1080
-$ git config --global http.https://github.com.proxy socks5://127.0.0.1:1080
+$ git config --global http.http://github.com.proxy socks5://127.0.0.1:1080
 ```
 
 修改后连接速度达到 SSR 代理水准，一级棒！👍
