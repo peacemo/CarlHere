@@ -2,7 +2,7 @@
 layout: post
 title: "Jekyll 中的配置和模板语法"
 date:   2020-03-12
-tags: [Jkeyll]
+tags: [Jekyll]
 comments: false
 toc: true
 author: shikamaru
