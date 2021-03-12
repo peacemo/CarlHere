@@ -195,7 +195,7 @@ author: shikamaru
 </RelativeLayout>
 ```
 
-![RelativeLayout示例](../images/2021-02-26-User-Interface-Basic/relaLayout.png)
+![RelativeLayout示例](../images/2021-02-26-User_Interface_Basic/relaLayout.png)
 
 
 
@@ -238,7 +238,7 @@ author: shikamaru
 </LinearLayout>
 ```
 
-![LinearLayout示例](../images/2021-02-26-User-Interface-Basic/linearLayout.png)
+![LinearLayout示例](../images/2021-02-26-User_Interface_Basic/linearLayout.png)
 
 
 
@@ -250,7 +250,7 @@ author: shikamaru
 	
 	示例（ConstraintLayout可以使用图形化界面进行搭建，方便许多，其中的操作超级无敌容易上手，推荐使用）：
 
-<img src="../images/2021-02-26-User-Interface-Basic/constraintLayout.png" style="zoom:60%;" />
+<img src="../images/2021-02-26-User_Interface_Basic/constraintLayout.png" style="zoom:60%;" />
 
 ## Image
 
@@ -268,7 +268,7 @@ author: shikamaru
         tools:srcCompat="@tools:sample/avatars[10]" />
 ```
 
-<img src="../images/2021-02-26-User-Interface-Basic/ImageView.png" style="zoom:60%;" />
+<img src="../images/2021-02-26-User_Interface_Basic/ImageView.png" style="zoom:60%;" />
 
 ### 应用icon
 
@@ -276,15 +276,15 @@ author: shikamaru
 
 1. 添加图片资源文件
 
-   <img src="../images/2021-02-26-User-Interface-Basic/添加资源文件.png" style="zoom:60%;" />
+   <img src="../images/2021-02-26-User_Interface_Basic/添加资源文件.png" style="zoom:60%;" />
 
 2. 修改icon参数
 
-   <img src="../images/2021-02-26-User-Interface-Basic/图标修改路径.png" style="zoom:60%;" />
+   <img src="../images/2021-02-26-User_Interface_Basic/图标修改路径.png" style="zoom:60%;" />
 
 3. 修改效果
 
-   <img src="../images/2021-02-26-User-Interface-Basic/iconChanged.png" style="zoom:60%;" />
+   <img src="../images/2021-02-26-User_Interface_Basic/iconChanged.png" style="zoom:60%;" />
 
 ## ListView and  Spinner
 
@@ -449,5 +449,5 @@ public class MainActivity extends AppCompatActivity {
 
 效果展示[包括ListVeiw和Spinner]：
 
-<img src="../images/2021-02-26-User-Interface-Basic/listNspinner.png" style="zoom:60%;" />
+<img src="../images/2021-02-26-User_Interface_Basic/listNspinner.png" style="zoom:60%;" />
 

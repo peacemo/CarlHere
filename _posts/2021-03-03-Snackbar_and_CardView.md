@@ -56,7 +56,7 @@ private void showSnackBar() {
 
 ​	最终效果--底部的弹出提示
 
-<img src="../images/2021-03-03-Snackbar and CardView/snackbar.png"/>
+<img src="../images/2021-03-03-Snackbar_and_CardView/snackbar.png"/>
 
 ## CardView
 
@@ -135,4 +135,4 @@ private void showSnackBar() {
 
 ​	最终效果--页面上部的卡片
 
-![](../images/2021-03-03-Snackbar and CardView/snackbar.png)
+![](../images/2021-03-03-Snackbar_and_CardView/snackbar.png)
