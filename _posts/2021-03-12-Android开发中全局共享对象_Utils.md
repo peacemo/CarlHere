@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android 全局共享数据的创建方法"
+title: "Android全局共享数据的创建方法"
 date:   2021-03-12
 tags: [Android]
 comments: false
