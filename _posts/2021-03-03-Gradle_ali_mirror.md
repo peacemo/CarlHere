@@ -8,6 +8,7 @@ toc: false
 author: shikamaru
 ---
 # Gradle仓库切换为国内的阿里源，加快访问速度
+<!-- more -->
 
 ## 仅对当前项目生效
 

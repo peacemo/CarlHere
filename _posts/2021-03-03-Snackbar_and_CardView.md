@@ -10,6 +10,7 @@ author: shikamaru
 ## Snackbar
 
 ​	Snackbar类似于传统的Toast提示，但是比Toast提示更美观便捷，功能更强，而且更容易控制。
+<!-- more -->
 
 **创建Snackbar**
 

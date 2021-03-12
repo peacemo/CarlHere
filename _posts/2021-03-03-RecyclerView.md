@@ -9,6 +9,7 @@ author: shikamaru
 ---
 
 用通讯录演示RecyclerView
+<!-- more -->
 
 ## 创建RecyclerView所需的布局文件
 
