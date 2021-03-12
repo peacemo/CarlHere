@@ -6,6 +6,6 @@ tags: [SAMPLE]
 comments: true
 toc: true
 author: shikamaru
+excerpt_separator: ""
 ---
 SAMPLESAMPSAMPLESAMPSAMPLE
-<!-- more -->

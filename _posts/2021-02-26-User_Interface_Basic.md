@@ -6,6 +6,7 @@ tags: [Android]
 comments: false
 toc: true
 author: shikamaru
+excerpt_separator: ""
 ---
 
 ## Basic Views
@@ -14,7 +15,6 @@ author: shikamaru
 * TextView: 在屏幕上显示文件的控件
 
 * Button: 按钮控件，在用户界面中创建按钮控件
-<!-- more -->
   
   * 通常按钮都需要关联一个回调方法，可以在Button的onClick属性中定义，再将方法在Java代码中实现。
   

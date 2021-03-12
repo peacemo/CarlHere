@@ -6,11 +6,11 @@ tags: [Linux]
 comments: false
 toc: true
 author: shikamaru
+excerpt_separator: ""
 ---
 //全文涉及到路径的地方均为usr内，文件操作需要管理员权限。  
 //如果需要安装到其他路径，自行进行修改  
-//作者：陈斯特洛夫斯基  
-<!-- more -->
+//作者：陈斯特洛夫斯基
 ## 第一步：下载所需版本的JDK和Eclipse安装包
 
 > https://www.eclipse.org/downloads/packages/    //eclipse下载地址  
