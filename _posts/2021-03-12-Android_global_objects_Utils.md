@@ -7,7 +7,6 @@ comments: false
 toc: false
 author: shikamaru
 excerpt_separator: ""
-excerpt_separator: ""
 ---
 ​	最近在 Android 开发中遇到一个比较棘手的问题，就是同一个对象在不同 Activity 之间的共享访问问题，一开始我的解决方法是在 Intent 中调用 `putExtra()`方法或者使用`Buddle`达到 Activity 之间数据共享的效果，但是这种效果效率不高，而且在传递参数或者对象后一般要重新声明一个对象，对内存空间造成了极大的浪费，而且代码的冗余度也非常高。
 

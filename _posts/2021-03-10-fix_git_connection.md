@@ -5,7 +5,7 @@ date:   2021-03-10
 tags: [Git]
 comments: false
 toc: false
-author: shikamarushiy
+author: shikamaru
 excerpt_separator: ""
 ---
 使用git工具进行clone / pull / push等操作的时候，由于国内的网络环境问题，会导致操作中断等问题。可以通过修改 git 的 proxy 代理解决。
