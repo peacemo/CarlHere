@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "关系数据库理论-候选码的求法"
-date:   2021-03-17
+date:   2019-03-17
 tags: [Database]
 comments: false
 toc: false
