@@ -20,3 +20,9 @@ $ git config --global http.http://github.com.proxy socks5://127.0.0.1:1080
 ```
 
 修改后连接速度达到 SSR 代理水准，一级棒！👍
+
+**取消代理**
+```bash
+git config --global --unset https.proxy
+git config --global --unset http.proxy
+```
