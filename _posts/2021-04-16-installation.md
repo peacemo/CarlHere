@@ -29,3 +29,10 @@ vim
 ssr
 openjdk
 py2.7
+
+fource blur
+latte
+magic lamp
+layan
+lightly
+white sur
