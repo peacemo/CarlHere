@@ -2,7 +2,7 @@
 layout: post
 title: "使用TensorFlow训练天气预测模型"
 date:   2021-07-07
-tags: [python， TensorFlow, Machine Learning]
+tags: [python, TensorFlow, Machine Learning]
 comments: true
 toc: false
 author: shikamaru
