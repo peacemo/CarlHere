@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用TensorFlow训练天气预测模型"
+title: "使用TensorFlow训练气温预测模型"
 date:   2021-07-07
 tags: [python, TensorFlow, Machine Learning]
 comments: true
