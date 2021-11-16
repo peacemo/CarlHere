@@ -1,3 +1,14 @@
+---
+layout: post
+title: "人工蜂群算法示例"
+date:   2021-11-16
+tags: [PSO]
+comments: true
+toc: false
+author: shikamaru
+excerpt_separator: ""
+---
+
 **对于测试函数 $f(x)=x_1^2-x_1x_2+x_2^2+2x_1+4x_2+3$ ($-5\le x_1, x_2\le 5$)，寻找其最大值。** 
 
 * 参数维度：2（两个自变量$x_1,x_2$）
