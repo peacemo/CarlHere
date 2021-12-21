@@ -2,7 +2,7 @@
 layout: post
 title: "引入CNN的机器学习图像分类"
 date:   2021-07-20
-tags: [python, TensorFlow, Machine Learning]
+tags: [Python, TensorFlow, Machine Learning]
 comments: true
 toc: false
 author: shikamaru

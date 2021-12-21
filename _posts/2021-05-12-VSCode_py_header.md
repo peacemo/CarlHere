@@ -2,7 +2,7 @@
 layout: post
 title: "VSCode 中为py文件添加头部基本信息"
 date:   2021-05-12
-tags: [python]
+tags: [Python]
 comments: false
 toc: false
 author: shikamaru
